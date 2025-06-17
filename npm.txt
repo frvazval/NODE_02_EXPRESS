@@ -19,4 +19,6 @@ npm audit -> para mirar si hay algun problema de vulnerabilidad
 
   para instalar una dependencia de desarrollo
   npm i nodemon morgan -D
-  instalara las dos
+  instalara las dos: nodemon y morgan
+  Estas dos dependencias al terminar el proyecto son prescindibles
+  
