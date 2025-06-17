@@ -22,3 +22,15 @@ npm audit -> para mirar si hay algun problema de vulnerabilidad
   instalara las dos: nodemon y morgan
   Estas dos dependencias al terminar el proyecto son prescindibles
   
+
+  Para no tener que reiniciar el servidor para ver los cambios
+  node --watch app.js
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+
+  de esta forma hay que ejecutar con 
+  npm run start, tambien npm start
+  
