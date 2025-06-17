@@ -1,0 +1,24 @@
+{
+  "name": "node_02_express",
+  "version": "1.0.0",
+  "description": "Primer servidor con Express",
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "homepage": "https://github.com/frvazval/NODE_02_EXPRESS#readme",
+  "bugs": {
+    "url": "https://github.com/frvazval/NODE_02_EXPRESS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frvazval/NODE_02_EXPRESS.git"
+  },
+  "license": "ISC",
+  "author": "Paco",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
