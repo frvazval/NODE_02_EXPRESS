@@ -1,2 +1,3 @@
 npm --version
-npm int
+npm int -> continuar con los pasos que te va pidiendo
+
