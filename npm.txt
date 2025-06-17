@@ -1,3 +1,8 @@
 npm --version
 npm int -> continuar con los pasos que te va pidiendo
+npm i express -> para instalar express
+si borras la carpeta node_module,  para volver a recuperar todo a partir de los 2 archivos json que se han creado
+npm i
+
+npm audit -> para mirar si hay algun problema de vulnerabilidad
 
