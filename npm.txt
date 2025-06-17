@@ -6,3 +6,14 @@ npm i
 
 npm audit -> para mirar si hay algun problema de vulnerabilidad
 
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+
+  para indicar cual es el ejecutable
+
+  para ejecutar 
+  npm app.je
+  npm run start, tambien npm start
+  
