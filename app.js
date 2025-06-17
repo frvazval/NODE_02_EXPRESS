@@ -5,7 +5,7 @@ const app = express();
 process.loadEnvFile();
 const PORT = process.argv[2] || process.env.PORT || 9999;
 
-app.use(espress.static(path.join(__dirname, "public")));
+app.use(express.static(path.join(__dirname, "public")));
 
 app.get('/', (req, res) => {
     res.send('<h1>Estamos en la pagina inicial o home</h1>');
