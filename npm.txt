@@ -16,4 +16,7 @@ npm audit -> para mirar si hay algun problema de vulnerabilidad
   para ejecutar 
   npm app.je
   npm run start, tambien npm start
-  
+
+  para instalar una dependencia de desarrollo
+  npm i nodemon morgan -D
+  instalara las dos
